@@ -22,7 +22,7 @@ title: Natalee Frensley
 email: natalee.frensley.b@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a portfolio website to showcase my GIS projects.
-baseurl: "/gis.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/gis" # the subpath of your site, e.g. /blog
 url: "https://natalee-f.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  natalee-f
 
